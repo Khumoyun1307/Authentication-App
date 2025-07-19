@@ -66,7 +66,7 @@ src/
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourorg/Authentication-App.git
+    git clone https://github.com/Khumoyun1307/Authentication-App.git
     cd Authentication-App
     ```
 
@@ -111,10 +111,19 @@ You can now use the generated JAR in other projects as a dependency.
 - **Domain JAR:** The domain classes are designed to be reusable and can be packaged as a standalone JAR.
 
 ---
+## Test cases 
+
+![img.png](img.png)
+
+## Screenshots from app
+![img_1.png](img_1.png)
+![img_2.png](img_2.png)
+![img_3.png](img_3.png)
 
 ## License
 
-MIT License
+GNU GENERAL PUBLIC LICENSE
+Version 3
 
 ---
 
